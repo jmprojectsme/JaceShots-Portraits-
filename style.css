@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+header, nav, section, footer {
+  padding: 20px;
+  margin: 10px auto;
+  max-width: 800px;
+}
+
+header h1 {
+  color: #333;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #0077cc;
+}
+
+nav a:hover {
+  color: #005fa3;
+}
+
